@@ -999,4 +999,14 @@
     "c": 51.0,
     "f": 31.0
   }
+  {
+  "id": "kyckling",
+  "sort": "fdfd",
+  "category": "C. Mellanmål",
+  "name": "Kyckling",
+  "kcal": 500,
+  "p": 100,
+  "c": 50,
+  "f": 25
+}
 ]
