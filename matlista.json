@@ -998,5 +998,15 @@
     "p": 10.0,
     "c": 51.0,
     "f": 31.0
-  }
+  },
+  {
+  "id": "kycklingratatouille-hellofresh",
+  "sort": "Kyckling",
+  "category": "A. Huvudrätt",
+  "name": "Kycklingratatouille (Hellofresh)",
+  "kcal": 563,
+  "p": 45.5,
+  "c": 52.8,
+  "f": 17.7
+}
 ]
