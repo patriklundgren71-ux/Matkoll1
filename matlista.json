@@ -998,25 +998,5 @@
     "p": 10.0,
     "c": 51.0,
     "f": 31.0
-  },
-  {
-  "id": "kycklingratatouille-hellofresh",
-  "sort": "Kyckling",
-  "category": "A. Huvudrätt",
-  "name": "Kycklingratatouille (Hellofresh)",
-  "kcal": 563,
-  "p": 45.5,
-  "c": 52.8,
-  "f": 17.7
-},
-  {
-  "id": "couscousbowl-och-harissakyckling-hellofresh",
-  "sort": "Kyckling",
-  "category": "A. Huvudrätt",
-  "name": "Couscousbowl och Harissakyckling (Hellofresh)",
-  "kcal": 551,
-  "p": 46.5,
-  "c": 56,
-  "f": 14.7
-}
+  }
 ]
