@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "chililax-med-ugnsrostade-gronsaker",
+    "sort": "Fisk",
+    "category": "A. Huvudrätt",
+    "name": "Chililax med ugnsrostade grönsaker",
+    "kcal": 574.3,
+    "p": 39.9,
+    "c": 58.0,
+    "f": 20.3
+  },
+  {
+    "id": "lax-med-kokossas",
+    "sort": "Fisk",
+    "category": "A. Huvudrätt",
+    "name": "Lax med kokossås",
+    "kcal": 453.1,
+    "p": 37.8,
+    "c": 8.2,
+    "f": 29.9
+  },
+  {
+    "id": "sojamarinerad-lax-med-grillade-gronsaker",
+    "sort": "Fisk",
+    "category": "A. Huvudrätt",
+    "name": "Sojamarinerad lax med grillade grönsaker",
+    "kcal": 394.3,
+    "p": 39.4,
+    "c": 22.5,
+    "f": 16.3
+  },
+  {
+    "id": "chorizo-100-gr",
+    "sort": "Fläsk",
+    "category": "A. Huvudrätt",
+    "name": "Chorizo 100 gr.",
+    "kcal": 266.0,
+    "p": 12.0,
+    "c": 5.0,
+    "f": 22.0
+  },
+  {
+    "id": "flaskfile-100-g",
+    "sort": "Fläsk",
+    "category": "A. Huvudrätt",
+    "name": "Fläskfilé 100 g",
+    "kcal": 133.0,
+    "p": 21.0,
+    "c": 1.0,
+    "f": 5.0
+  },
+  {
+    "id": "flaskfile-balsamico",
+    "sort": "Fläsk",
+    "category": "A. Huvudrätt",
+    "name": "Fläskfilé balsamico",
+    "kcal": 496.0,
+    "p": 35.0,
+    "c": 53.0,
+    "f": 16.0
+  },
+  {
+    "id": "flaskfilegryta-med-rostad-potatis",
+    "sort": "Fläsk",
+    "category": "A. Huvudrätt",
+    "name": "Fläskfilégryta med rostad potatis",
+    "kcal": 510.1,
+    "p": 42.3,
+    "c": 50.8,
+    "f": 15.3
+  },
+  {
+    "id": "pasta-med-tomatpesto-och-bacon",
+    "sort": "Fläsk",
+    "category": "A. Huvudrätt",
+    "name": "Pasta med tomatpesto och bacon",
+    "kcal": 550.7,
+    "p": 29.0,
+    "c": 49.5,
+    "f": 26.3
+  },
+  {
+    "id": "pulled-pork-burger-without-bread-and-cole-slaw",
+    "sort": "Fläsk",
+    "category": "A. Huvudrätt",
+    "name": "Pulled pork burger (without bread and cole slaw)",
+    "kcal": 359.3,
+    "p": 41.3,
+    "c": 35.7,
+    "f": 5.7
+  },
+  {
+    "id": "chef-select-caesarsallad",
+    "sort": "Kyckling",
+    "category": "A. Huvudrätt",
+    "name": "Chef Select Caesarsallad",
+    "kcal": 431.57,
+    "p": 29.58,
+    "c": 15.86,
+    "f": 27.75
+  },
+  {
+    "id": "cp-thaikyckling",
+    "sort": "Kyckling",
+    "category": "A. Huvudrätt",
+    "name": "CP - Thaikyckling",
+    "kcal": 427.7,
+    "p": 32.9,
+    "c": 15.3,
+    "f": 26.1
+  },
+  {
+    "id": "cp-kyckling-korma",
+    "sort": "Kyckling",
+    "category": "A. Huvudrätt",
+    "name": "CP Kyckling Korma",
+    "kcal": 444.2,
+    "p": 49.05,
+    "c": 10.25,
+    "f": 23.0
+  },
+  {
+    "id": "hasselbackskyckling-med-chorizo-och-mozzarella",
+    "sort": "Kyckling",
+    "category": "A. Huvudrätt",
+    "name": "Hasselbackskyckling med Chorizo och Mozzarella",
+    "kcal": 310.0,
+    "p": 45.0,
+    "c": 1.0,
+    "f": 14.0
+  },
+  {
+    "id": "krispig-kyckling-med-kramiga-gronsaker",
+    "sort": "Kyckling",
+    "category": "A. Huvudrätt",
+    "name": "Krispig kyckling med krämiga grönsaker",
+    "kcal": 463.0,
+    "p": 50.0,
+    "c": 14.0,
+    "f": 23.0
+  },
+  {
+    "id": "kung-pao-chicken",
+    "sort": "Kyckling",
+    "category": "A. Huvudrätt",
+    "name": "Kung Pao Chicken",
+    "kcal": 535.8,
+    "p": 49.4,
+    "c": 46.3,
+    "f": 17.0
+  },
+  {
+    "id": "kyckling-med-fettucini-och-parmesan",
+    "sort": "Kyckling",
+    "category": "A. Huvudrätt",
+    "name": "Kyckling med Fettucini och Parmesan",
+    "kcal": 226.4,
+    "p": 26.1,
+    "c": 6.2,
+    "f": 10.8
+  },
+  {
+    "id": "kyckling-med-kaprisaioli",
+    "sort": "Kyckling",
+    "category": "A. Huvudrätt",
+    "name": "Kyckling med kaprisaioli",
+    "kcal": 220.4,
+    "p": 25.9,
+    "c": 1.3,
+    "f": 12.4
+  },
+  {
+    "id": "kyckling-med-krispig-kalsallad",
+    "sort": "Kyckling",
+    "category": "A. Huvudrätt",
+    "name": "Kyckling med krispig kålsallad",
+    "kcal": 284.0,
+    "p": 30.0,
+    "c": 5.0,
+    "f": 16.0
+  },
+  {
+    "id": "kyckling-piccata",
+    "sort": "Kyckling",
+    "category": "A. Huvudrätt",
+    "name": "Kyckling Piccata",
+    "kcal": 185.0,
+    "p": 24.0,
+    "c": 2.0,
+    "f": 9.0
+  },
+  {
+    "id": "kycklingfile-med-kramig-tomatsas",
+    "sort": "Kyckling",
+    "category": "A. Huvudrätt",
+    "name": "Kycklingfilé – med krämig tomatsås",
+    "kcal": 518.0,
+    "p": 54.0,
+    "c": 17.0,
+    "f": 26.0
+  },
+  {
+    "id": "kycklingfile-med-ugnsrostade-medelhavsgronsaker",
+    "sort": "Kyckling",
+    "category": "A. Huvudrätt",
+    "name": "Kycklingfilé med ugnsrostade medelhavsgrönsaker",
+    "kcal": 278.0,
+    "p": 45.2,
+    "c": 9.0,
+    "f": 6.8
+  },
+  {
+    "id": "muskelbyggande-kyckling-med-basilika",
+    "sort": "Kyckling",
+    "category": "A. Huvudrätt",
+    "name": "Muskelbyggande kyckling med basilika",
+    "kcal": 459.2,
+    "p": 47.6,
+    "c": 37.5,
+    "f": 13.2
+  },
+  {
+    "id": "saftig-kycklingfile",
+    "sort": "Kyckling",
+    "category": "A. Huvudrätt",
+    "name": "Saftig kycklingfilé",
+    "kcal": 251.0,
+    "p": 35.0,
+    "c": 3.0,
+    "f": 11.0
+  },
+  {
+    "id": "spicy-jordnotkyckling",
+    "sort": "Kyckling",
+    "category": "A. Huvudrätt",
+    "name": "Spicy jordnötkyckling",
+    "kcal": 259.0,
+    "p": 26.0,
+    "c": 5.0,
+    "f": 15.0
+  },
+  {
+    "id": "beef-bowl",
+    "sort": "Kött",
+    "category": "A. Huvudrätt",
+    "name": "Beef Bowl",
+    "kcal": 341.7,
+    "p": 22.0,
+    "c": 17.3,
+    "f": 20.5
+  },
+  {
+    "id": "biff-i-hoisin-sas",
+    "sort": "Kött",
+    "category": "A. Huvudrätt",
+    "name": "Biff i Hoisin-sås",
+    "kcal": 511.9,
+    "p": 43.0,
+    "c": 36.6,
+    "f": 21.5
+  },
+  {
+    "id": "cp-biff-madras",
+    "sort": "Kött",
+    "category": "A. Huvudrätt",
+    "name": "CP Biff Madras",
+    "kcal": 368.0,
+    "p": 21.0,
+    "c": 8.0,
+    "f": 28.0
+  },
+  {
+    "id": "cp-chiligryta",
+    "sort": "Kött",
+    "category": "A. Huvudrätt",
+    "name": "CP Chiligryta",
+    "kcal": 439.1,
+    "p": 35.9,
+    "c": 21.9,
+    "f": 23.1
+  },
+  {
+    "id": "cp-kottbullar-i-bbq-sas",
+    "sort": "Kött",
+    "category": "A. Huvudrätt",
+    "name": "CP Köttbullar i BBQ-sås",
+    "kcal": 557.7,
+    "p": 38.2,
+    "c": 78.5,
+    "f": 10.1
+  },
+  {
+    "id": "dubbel-cheeseburgare",
+    "sort": "Kött",
+    "category": "A. Huvudrätt",
+    "name": "Dubbel Cheeseburgare",
+    "kcal": 437.0,
+    "p": 24.0,
+    "c": 29.0,
+    "f": 25.0
+  },
+  {
+    "id": "gronsakswok-med-lovbiff",
+    "sort": "Kött",
+    "category": "A. Huvudrätt",
+    "name": "Grönsakswok med lövbiff",
+    "kcal": 371.5,
+    "p": 52.75,
+    "c": 16.5,
+    "f": 10.5
+  },
+  {
+    "id": "hamburgare-ej-brod-100gr",
+    "sort": "Kött",
+    "category": "A. Huvudrätt",
+    "name": "Hamburgare (ej bröd) 100gr ",
+    "kcal": 282.1,
+    "p": 16.1,
+    "c": 3.8,
+    "f": 22.5
+  },
+  {
+    "id": "kottfars-100-gr",
+    "sort": "Kött",
+    "category": "A. Huvudrätt",
+    "name": "Köttfärs 100 gr",
+    "kcal": 206.9,
+    "p": 19.1,
+    "c": 0.0,
+    "f": 14.5
+  },
+  {
+    "id": "lovbiff-100-gr",
+    "sort": "Kött",
+    "category": "A. Huvudrätt",
+    "name": "Lövbiff (100 gr)",
+    "kcal": 117.0,
+    "p": 22.0,
+    "c": 0.5,
+    "f": 3.0
+  },
+  {
+    "id": "mb-ginger-beef",
+    "sort": "Kött",
+    "category": "A. Huvudrätt",
+    "name": "MB - Ginger Beef",
+    "kcal": 290.1,
+    "p": 36.1,
+    "c": 9.2,
+    "f": 12.1
+  },
+  {
+    "id": "mcdonalds-hamburgare",
+    "sort": "Kött",
+    "category": "A. Huvudrätt",
+    "name": "McDonalds Hamburgare",
+    "kcal": 251.7,
+    "p": 13.0,
+    "c": 29.0,
+    "f": 9.3
+  },
+  {
+    "id": "nikkaluoktasoppa",
+    "sort": "Kött",
+    "category": "A. Huvudrätt",
+    "name": "Nikkaluoktasoppa",
+    "kcal": 430.0,
+    "p": 44.0,
+    "c": 14.0,
+    "f": 22.0
+  },
+  {
+    "id": "pasta-med-kottfarssas-255-gr",
+    "sort": "Kött",
+    "category": "A. Huvudrätt",
+    "name": "Pasta med köttfärssås 255 gr.",
+    "kcal": 329.0,
+    "p": 20.0,
+    "c": 33.0,
+    "f": 13.0
+  },
+  {
+    "id": "pepparbiff",
+    "sort": "Kött",
+    "category": "A. Huvudrätt",
+    "name": "Pepparbiff",
+    "kcal": 267.0,
+    "p": 36.0,
+    "c": 1.5,
+    "f": 13.0
+  },
+  {
+    "id": "proteinbiff-med-sweet-sour-sas",
+    "sort": "Kött",
+    "category": "A. Huvudrätt",
+    "name": "Proteinbiff med Sweet & sour-sås",
+    "kcal": 462.1,
+    "p": 49.0,
+    "c": 45.6,
+    "f": 9.3
+  },
+  {
+    "id": "qp-cheese",
+    "sort": "Kött",
+    "category": "A. Huvudrätt",
+    "name": "QP Cheese",
+    "kcal": 507.0,
+    "p": 30.0,
+    "c": 36.0,
+    "f": 27.0
+  },
+  {
+    "id": "souvlakikryddade-kottbullar-med-tzatziki",
+    "sort": "Kött",
+    "category": "A. Huvudrätt",
+    "name": "Souvlakikryddade köttbullar med Tzatziki",
+    "kcal": 528.2,
+    "p": 51.9,
+    "c": 48.2,
+    "f": 14.2
+  },
+  {
+    "id": "spaghetti-bolognese-125-gr",
+    "sort": "Kött",
+    "category": "A. Huvudrätt",
+    "name": "Spaghetti Bolognese 125 gr ",
+    "kcal": 205.7,
+    "p": 21.8,
+    "c": 9.6,
+    "f": 8.9
+  },
+  {
+    "id": "tacobatar",
+    "sort": "Kött",
+    "category": "A. Huvudrätt",
+    "name": "Tacobåtar",
+    "kcal": 317.0,
+    "p": 32.0,
+    "c": 9.0,
+    "f": 17.0
+  },
+  {
+    "id": "vitloksmaten-1-portion-av-4",
+    "sort": "Kött",
+    "category": "A. Huvudrätt",
+    "name": "Vitlöksmaten 1 portion (av 4)",
+    "kcal": 323.31,
+    "p": 23.34,
+    "c": 4.05,
+    "f": 23.75
+  },
+  {
+    "id": "barbecue-chicken-and-coleslaw",
+    "sort": "PSMF",
+    "category": "A. Huvudrätt",
+    "name": "BARBECUE CHICKEN and COLESLAW",
+    "kcal": 244.9,
+    "p": 54.7,
+    "c": 1.8,
+    "f": 2.1
+  },
+  {
+    "id": "chicken-pho-with-shirataki-noodles",
+    "sort": "PSMF",
+    "category": "A. Huvudrätt",
+    "name": "CHICKEN PHO with SHIRATAKI NOODLES",
+    "kcal": 174.8,
+    "p": 31.1,
+    "c": 4.5,
+    "f": 3.6
+  },
+  {
+    "id": "chimichurri-flank-steak",
+    "sort": "PSMF",
+    "category": "A. Huvudrätt",
+    "name": "CHIMICHURRI FLANK STEAK",
+    "kcal": 264.1,
+    "p": 33.3,
+    "c": 1.9,
+    "f": 13.7
+  },
+  {
+    "id": "masala-curry-chicken",
+    "sort": "PSMF",
+    "category": "A. Huvudrätt",
+    "name": "Masala Curry Chicken",
+    "kcal": 317.8,
+    "p": 54.5,
+    "c": 11.0,
+    "f": 6.2
+  },
+  {
+    "id": "moroccan-chicken-skewers-with-cauliflower",
+    "sort": "PSMF",
+    "category": "A. Huvudrätt",
+    "name": "MOROCCAN CHICKEN SKEWERS with CAULIFLOWER",
+    "kcal": 287.8,
+    "p": 53.8,
+    "c": 5.1,
+    "f": 5.8
+  },
+  {
+    "id": "zesty-fiesta-chicken-soup",
+    "sort": "PSMF",
+    "category": "A. Huvudrätt",
+    "name": "ZESTY FIESTA CHICKEN SOUP",
+    "kcal": 301.0,
+    "p": 51.5,
+    "c": 8.0,
+    "f": 7.0
+  },
+  {
+    "id": "parmesan-20-gr",
+    "sort": "Ost",
+    "category": "B. Tillbehör",
+    "name": "Parmesan 20 gr",
+    "kcal": 71.46,
+    "p": 6.72,
+    "c": 0.3,
+    "f": 4.82
+  },
+  {
+    "id": "barilla-pasta-50-gr-okokt",
+    "sort": "Pasta",
+    "category": "B. Tillbehör",
+    "name": "Barilla pasta 50 gr okokt",
+    "kcal": 174.2,
+    "p": 6.25,
+    "c": 35.95,
+    "f": 0.6
+  },
+  {
+    "id": "red-cole-slaw-150-gr",
+    "sort": "Sallad",
+    "category": "B. Tillbehör",
+    "name": "Red Cole Slaw 150 gr",
+    "kcal": 224.0,
+    "p": 2.7,
+    "c": 30.8,
+    "f": 10.0
+  },
+  {
+    "id": "bearnaise-sas-25-gr-1-msk",
+    "sort": "Sås",
+    "category": "B. Tillbehör",
+    "name": "Bearnaise-sås 25 gr (1 msk)",
+    "kcal": 108.84,
+    "p": 0.14,
+    "c": 0.07,
+    "f": 12.0
+  },
+  {
+    "id": "chipotlemajonnas-25-gr",
+    "sort": "Sås",
+    "category": "B. Tillbehör",
+    "name": "Chipotlemajonnäs 25 gr",
+    "kcal": 129.1,
+    "p": 0.7,
+    "c": 9.3,
+    "f": 9.9
+  },
+  {
+    "id": "wasa-sport-knackebrod",
+    "sort": "Bröd",
+    "category": "C. Mellanmål",
+    "name": "Wasa Sport knäckebröd",
+    "kcal": 42.2,
+    "p": 1.3,
+    "c": 8.8,
+    "f": 0.2
+  },
+  {
+    "id": "banan-105-gr",
+    "sort": "Frukt&Bär",
+    "category": "C. Mellanmål",
+    "name": "Banan 105 gr",
+    "kcal": 94.5,
+    "p": 1.0,
+    "c": 22.4,
+    "f": 0.1
+  },
+  {
+    "id": "clementin",
+    "sort": "Frukt&Bär",
+    "category": "C. Mellanmål",
+    "name": "Clementin",
+    "kcal": 41.4,
+    "p": 0.6,
+    "c": 9.3,
+    "f": 0.2
+  },
+  {
+    "id": "honungsmelon-100-gr",
+    "sort": "Frukt&Bär",
+    "category": "C. Mellanmål",
+    "name": "Honungsmelon 100 gr",
+    "kcal": 38.9,
+    "p": 0.5,
+    "c": 9.0,
+    "f": 0.1
+  },
+  {
+    "id": "jordgubbar-1-liter",
+    "sort": "Frukt&Bär",
+    "category": "C. Mellanmål",
+    "name": "Jordgubbar 1 liter",
+    "kcal": 185.0,
+    "p": 2.5,
+    "c": 41.5,
+    "f": 1.0
+  },
+  {
+    "id": "kiwi-1-frukt",
+    "sort": "Frukt&Bär",
+    "category": "C. Mellanmål",
+    "name": "Kiwi, 1 frukt",
+    "kcal": 51.64,
+    "p": 0.87,
+    "c": 11.14,
+    "f": 0.4
+  },
+  {
+    "id": "persika-90-gr",
+    "sort": "Frukt&Bär",
+    "category": "C. Mellanmål",
+    "name": "Persika 90 gr",
+    "kcal": 38.1,
+    "p": 0.7,
+    "c": 8.6,
+    "f": 0.1
+  },
+  {
+    "id": "plommon-35-gr",
+    "sort": "Frukt&Bär",
+    "category": "C. Mellanmål",
+    "name": "Plommon (35 gr)",
+    "kcal": 17.81,
+    "p": 0.17,
+    "c": 4.2,
+    "f": 0.03
+  },
+  {
+    "id": "rott-apple",
+    "sort": "Frukt&Bär",
+    "category": "C. Mellanmål",
+    "name": "Rött äpple",
+    "kcal": 58.9,
+    "p": 0.3,
+    "c": 14.2,
+    "f": 0.1
+  },
+  {
+    "id": "arla-hushallsost-20-gr",
+    "sort": "Mejeri",
+    "category": "C. Mellanmål",
+    "name": "Arla Hushållsost 20 Gr",
+    "kcal": 66.8,
+    "p": 5.0,
+    "c": 0.0,
+    "f": 5.2
+  },
+  {
+    "id": "mjolk-1-dl",
+    "sort": "Mejeri",
+    "category": "C. Mellanmål",
+    "name": "Mjölk, 1 dl",
+    "kcal": 65.4,
+    "p": 4.8,
+    "c": 4.8,
+    "f": 3.0
+  },
+  {
+    "id": "smor-1-matsked",
+    "sort": "Mejeri",
+    "category": "C. Mellanmål",
+    "name": "Smör, 1 matsked",
+    "kcal": 104.2,
+    "p": 0.12,
+    "c": 0.01,
+    "f": 11.52
+  },
+  {
+    "id": "agg-kokt",
+    "sort": "Mejeri",
+    "category": "C. Mellanmål",
+    "name": "Ägg kokt",
+    "kcal": 75.7,
+    "p": 6.8,
+    "c": 0.2,
+    "f": 5.3
+  },
+  {
+    "id": "aggvita-fran-1-agg",
+    "sort": "Mejeri",
+    "category": "C. Mellanmål",
+    "name": "Äggvita från 1 ägg",
+    "kcal": 14.8,
+    "p": 3.7,
+    "c": 0.0,
+    "f": 0.0
+  },
+  {
+    "id": "estrella-osaltade-jordnotter-20-gr",
+    "sort": "Nötter",
+    "category": "C. Mellanmål",
+    "name": "Estrella osaltade jordnötter 20 gr",
+    "kcal": 119.0,
+    "p": 4.6,
+    "c": 2.2,
+    "f": 10.2
+  },
+  {
+    "id": "barebells-caramel-cashew",
+    "sort": "Tillskott",
+    "category": "C. Mellanmål",
+    "name": "Barebells Caramel Cashew",
+    "kcal": 220.5,
+    "p": 20.0,
+    "c": 16.0,
+    "f": 8.5
+  },
+  {
+    "id": "barebells-glass",
+    "sort": "Tillskott",
+    "category": "C. Mellanmål",
+    "name": "Barebells glass",
+    "kcal": 169.6,
+    "p": 5.8,
+    "c": 9.6,
+    "f": 12.0
+  },
+  {
+    "id": "choklad-milkshake-med-banan",
+    "sort": "Tillskott",
+    "category": "C. Mellanmål",
+    "name": "Choklad milkshake med banan",
+    "kcal": 323.0,
+    "p": 33.0,
+    "c": 32.0,
+    "f": 7.0
+  },
+  {
+    "id": "gainomax-recovery-choklad",
+    "sort": "Tillskott",
+    "category": "C. Mellanmål",
+    "name": "Gainomax Recovery choklad",
+    "kcal": 253.5,
+    "p": 20.0,
+    "c": 40.0,
+    "f": 1.5
+  },
+  {
+    "id": "nutramino-sports-drink-strawberry",
+    "sort": "Tillskott",
+    "category": "C. Mellanmål",
+    "name": "Nutramino Sports Drink Strawberry",
+    "kcal": 80.0,
+    "p": 0.0,
+    "c": 20.0,
+    "f": 0.0
+  },
+  {
+    "id": "propud-chocolate-chip-cookie",
+    "sort": "Tillskott",
+    "category": "C. Mellanmål",
+    "name": "Propud Chocolate Chip Cookie",
+    "kcal": 143.8,
+    "p": 20.0,
+    "c": 9.2,
+    "f": 3.0
+  },
+  {
+    "id": "protein-mug-cake-chocolate",
+    "sort": "Tillskott",
+    "category": "C. Mellanmål",
+    "name": "Protein mug cake chocolate",
+    "kcal": 181.85,
+    "p": 23.9,
+    "c": 15.6,
+    "f": 2.65
+  },
+  {
+    "id": "sportyfeel-protein-chunky-chocolate",
+    "sort": "Tillskott",
+    "category": "C. Mellanmål",
+    "name": "Sportyfeel Protein Chunky Chocolate",
+    "kcal": 238.8,
+    "p": 24.2,
+    "c": 21.1,
+    "f": 6.4
+  },
+  {
+    "id": "vanilj-milkshake-med-hallon-eller-blabar",
+    "sort": "Tillskott",
+    "category": "C. Mellanmål",
+    "name": "Vanilj milkshake med Hallon eller blåbär",
+    "kcal": 263.0,
+    "p": 34.0,
+    "c": 16.0,
+    "f": 7.0
+  },
+  {
+    "id": "popcorn-0-5-dl-0-5-msk-rapsolja-0-5-msk-smor",
+    "sort": "Övrigt",
+    "category": "C. Mellanmål",
+    "name": "Popcorn 0,5 dl. 0,5 msk rapsolja. 0,5 msk smör",
+    "kcal": 121.0,
+    "p": 0.0,
+    "c": 1.0,
+    "f": 13.0
+  },
+  {
+    "id": "ahlgrens-bilar-160-gr",
+    "sort": "Godis",
+    "category": "Z. Godis",
+    "name": "Ahlgrens bilar 160 gr",
+    "kcal": 555.84,
+    "p": 7.04,
+    "c": 131.2,
+    "f": 0.32
+  },
+  {
+    "id": "barebells-raspberry-licorice",
+    "sort": "Godis",
+    "category": "Z. Godis",
+    "name": "Barebells Raspberry licorice",
+    "kcal": 198.6,
+    "p": 5.4,
+    "c": 15.0,
+    "f": 13.0
+  },
+  {
+    "id": "barebells-strawberry-vanilla",
+    "sort": "Godis",
+    "category": "Z. Godis",
+    "name": "Barebells Strawberry vanilla",
+    "kcal": 219.0,
+    "p": 8.5,
+    "c": 17.0,
+    "f": 13.0
+  },
+  {
+    "id": "geisha-glass",
+    "sort": "Godis",
+    "category": "Z. Godis",
+    "name": "Geisha-glass",
+    "kcal": 246.8,
+    "p": 3.2,
+    "c": 27.0,
+    "f": 14.0
+  },
+  {
+    "id": "glasstrut-mcdonalds",
+    "sort": "Godis",
+    "category": "Z. Godis",
+    "name": "Glasstrut Mcdonalds",
+    "kcal": 127.0,
+    "p": 3.0,
+    "c": 22.0,
+    "f": 3.0
+  },
+  {
+    "id": "haribo-push-up",
+    "sort": "Godis",
+    "category": "Z. Godis",
+    "name": "Haribo Push-up",
+    "kcal": 94.8,
+    "p": 1.2,
+    "c": 18.0,
+    "f": 2.0
+  },
+  {
+    "id": "kanelbulle",
+    "sort": "Godis",
+    "category": "Z. Godis",
+    "name": "Kanelbulle",
+    "kcal": 250.32,
+    "p": 5.84,
+    "c": 40.0,
+    "f": 7.44
+  },
+  {
+    "id": "kick",
+    "sort": "Godis",
+    "category": "Z. Godis",
+    "name": "Kick",
+    "kcal": 87.0,
+    "p": 1.0,
+    "c": 14.0,
+    "f": 3.0
+  },
+  {
+    "id": "kokosdrom",
+    "sort": "Godis",
+    "category": "Z. Godis",
+    "name": "Kokosdröm",
+    "kcal": 111.4,
+    "p": 0.6,
+    "c": 24.1,
+    "f": 1.4
+  },
+  {
+    "id": "kolasnoren",
+    "sort": "Godis",
+    "category": "Z. Godis",
+    "name": "Kolasnören",
+    "kcal": 351.2,
+    "p": 3.2,
+    "c": 81.0,
+    "f": 1.6
+  },
+  {
+    "id": "marabou-mjolkchoklad-100-gr",
+    "sort": "Godis",
+    "category": "Z. Godis",
+    "name": "Marabou Mjölkchoklad 100 gr",
+    "kcal": 540.8,
+    "p": 4.7,
+    "c": 58.5,
+    "f": 32.0
+  },
+  {
+    "id": "mork-choklad-85-10g",
+    "sort": "Godis",
+    "category": "Z. Godis",
+    "name": "Mörk choklad 85% 10g",
+    "kcal": 54.0,
+    "p": 1.25,
+    "c": 1.9,
+    "f": 4.6
+  },
+  {
+    "id": "noggerglass-1-pkt",
+    "sort": "Godis",
+    "category": "Z. Godis",
+    "name": "Noggerglass, 1 pkt",
+    "kcal": 675.0,
+    "p": 10.0,
+    "c": 80.0,
+    "f": 35.0
+  },
+  {
+    "id": "noggerglasspinne",
+    "sort": "Godis",
+    "category": "Z. Godis",
+    "name": "Noggerglasspinne",
+    "kcal": 205.6,
+    "p": 1.9,
+    "c": 18.0,
+    "f": 14.0
+  },
+  {
+    "id": "pippi-glass",
+    "sort": "Godis",
+    "category": "Z. Godis",
+    "name": "Pippi-glass",
+    "kcal": 69.5,
+    "p": 0.9,
+    "c": 8.6,
+    "f": 3.5
+  },
+  {
+    "id": "potatischips-40-gr",
+    "sort": "Godis",
+    "category": "Z. Godis",
+    "name": "Potatischips, 40 gr",
+    "kcal": 216.0,
+    "p": 2.0,
+    "c": 23.2,
+    "f": 12.8
+  },
+  {
+    "id": "rigi-20-gr",
+    "sort": "Godis",
+    "category": "Z. Godis",
+    "name": "Rigi 20 gr",
+    "kcal": 544.4,
+    "p": 6.6,
+    "c": 53.0,
+    "f": 34.0
+  },
+  {
+    "id": "skumtomte-stor-22-gr",
+    "sort": "Godis",
+    "category": "Z. Godis",
+    "name": "Skumtomte stor 22 gr",
+    "kcal": 67.76,
+    "p": 0.88,
+    "c": 16.06,
+    "f": 0.0
+  },
+  {
+    "id": "ostbagar-100-gr",
+    "sort": "Godis",
+    "category": "Z.godis",
+    "name": "Ostbågar, 100 gr",
+    "kcal": 523.0,
+    "p": 10.0,
+    "c": 51.0,
+    "f": 31.0
+  }
+]
